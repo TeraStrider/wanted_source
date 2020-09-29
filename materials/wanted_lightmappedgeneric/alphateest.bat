@@ -1,0 +1,1 @@
+vtfcmd -folder "%cd%\*.bmp" -output "%cd%" -version "7.2" -shader "lightmappedgeneric" -resize -param "$alphatest" "1" -param "$alphatestreference" ".95" -rmethod "BIGGEST"

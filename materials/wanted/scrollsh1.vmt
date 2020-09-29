@@ -1,0 +1,14 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wanted/scrollsh1"
+	"$surfaceprop" "water"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 2.00
+			"texturescrollangle" 90.00
+		}
+	}
+}

@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wanted/{fret2"
+	"$alphatest" 1
+	"$alphatestreference" 0.950000
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "skybox/want2rt"
+	"$ingnorez" 1
+	"$nofog" 1
+}

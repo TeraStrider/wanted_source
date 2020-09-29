@@ -1,0 +1,14 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wanted/scrollchain"
+	"$surfaceprop" "metal"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 2.00
+			"texturescrollangle" 90.00
+		}
+	}
+}
