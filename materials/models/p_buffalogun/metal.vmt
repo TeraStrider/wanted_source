@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/p_buffalogun/metal"
+	"$model" 1
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v_scorpion/scorplegs"
+	"$model" 1
+}

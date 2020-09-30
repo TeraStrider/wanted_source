@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/skeleton/SK_Leg1"
+	"$model" 1
+}

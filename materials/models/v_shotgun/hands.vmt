@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v_shotgun/hands"
+	"$model" 1
+}

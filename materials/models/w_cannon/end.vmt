@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/w_cannon/end"
+	"$model" 1
+}

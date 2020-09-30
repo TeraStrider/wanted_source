@@ -1,0 +1,119 @@
+// Created by Crowbar 0.68
+
+  Decompiling ".\barney.mdl" ...
+    Model version 44 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading PHY file ...
+      ... Reading PHY file finished.
+      Reading VTX file ...
+      ... Reading VTX file finished.
+      Reading VVD file ...
+      ... Reading VVD file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        barney.qc
+      Reference mesh files: 
+        BARNEY-X_Template_Biped1.smd
+        BARNEY-X_Template_Biped(Gun-Hlstr)1.smd
+        BARNEY-X_Template_Biped(Gun)1.smd
+      LOD mesh files: 
+      Physics mesh file: 
+        barney_physics.smd
+      Bone animation files: 
+        mouth_close_corrective_animation.smd
+        mouth_open_corrective_animation.smd
+        neck_right_corrective_animation.smd
+        neck_center_corrective_animation.smd
+        neck_left_corrective_animation.smd
+        idle1.smd
+        idle2.smd
+        idle3.smd
+        idle4.smd
+        walk.smd
+        run.smd
+        draw.smd
+        disarm.smd
+        reload.smd
+        turnleft.smd
+        turnright.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        smlflinch.smd
+        cower_stand.smd
+        locked_door.smd
+        fall_loop.smd
+        barn_wave.smd
+        beat_grunt.smd
+        beat_gruntidle.smd
+        flashlight.smd
+        shootgun.smd
+        shootgun_2.smd
+        shootgun2.smd
+        shootgun2_2.smd
+        diesimple.smd
+        dieviolent.smd
+        diegutshot.smd
+        dieforward.smd
+        diebackward.smd
+        diecrump.smd
+        barnaclehit.smd
+        barnaclepull.smd
+        barnaclecrunch.smd
+        barnaclechew.smd
+        lying_on_back.smd
+        lying_on_side.smd
+        lying_on_stomach.smd
+        stuffed_in_vent.smd
+        standing_idle.smd
+        cprbarney.smd
+        cprbarneyrevive.smd
+        barney_dragvent.smd
+        dying_barney.smd
+        dying_barneyidle.smd
+        dying_friend.smd
+        dying_friendidle.smd
+        c1a3_bidle.smd
+        c1a3_ventb.smd
+        c1a3_emergeidle.smd
+        c1a3_emerge.smd
+        haulbarney.smd
+        intropush.smd
+        fence.smd
+        sit1.smd
+        almostidle.smd
+        almost.smd
+        laseridle.smd
+        laser_top.smd
+        laser_bottom.smd
+        barneyfallidle.smd
+        barneyfall.smd
+        c3a2_draw.smd
+        unlatch.smd
+        retina.smd
+        relaxstand.smd
+        assassinated.smd
+        trackswitch.smd
+        pepsiswing.smd
+        pepsipush.smd
+        buttonpush.smd
+        barny_lipsync_neutral.smd
+        3way_headturn_neutral.smd
+        mouth_open.smd
+        mouth_close.smd
+        neck_right.smd
+        neck_center.smd
+        neck_left.smd
+        ragdoll.smd
+      DeclareSequence QCI file: 
+        barney_DeclareSequence.qci
+    ... Writing data finished.
+  ... Decompiling ".\barney.mdl" finished.

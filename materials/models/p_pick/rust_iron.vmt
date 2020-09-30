@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/p_pick/rust_iron"
+	"$model" 1
+}

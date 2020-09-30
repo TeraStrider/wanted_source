@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/chicken/chicken"
+	"$model" 1
+}

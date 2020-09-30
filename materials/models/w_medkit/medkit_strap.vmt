@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/w_medkit/medkit_strap"
+	"$model" 1
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/p_dynamite/dynamite_skin"
+	"$model" 1
+}

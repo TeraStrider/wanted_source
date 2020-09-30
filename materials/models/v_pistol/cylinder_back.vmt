@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v_pistol/cylinder_back"
+	"$model" 1
+}

@@ -1,0 +1,5938 @@
+// Created by Crowbar 0.68
+
+  Decompiling ".\annie.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        annie.qc
+      Reference mesh files: 
+        BARNEY-X_Template_Biped(Gun-Hlstr)1.smd
+        BARNEY-X_Template_Biped(Gun)1.smd
+        annieBARNEY.smd
+      Bone animation files: 
+        idle1.smd
+        idle2.smd
+        idle3.smd
+        idle4.smd
+        walk.smd
+        run.smd
+        shootgun_blend01.smd
+        shootgun_blend02.smd
+        shootgun2_blend01.smd
+        shootgun2_blend02.smd
+        draw.smd
+        disarm.smd
+        reload.smd
+        turnleft.smd
+        turnright.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        smlflinch.smd
+        diesimple.smd
+        dieviolent.smd
+        diegutshot.smd
+        dieforward.smd
+        diebackward.smd
+        diecrump.smd
+        barnaclehit.smd
+        barnaclepull.smd
+        barnaclecrunch.smd
+        barnaclechew.smd
+        cower_stand.smd
+        locked_door.smd
+        fall_loop.smd
+        barn_wave.smd
+        beat_grunt.smd
+        beat_gruntidle.smd
+        flashlight.smd
+        lying_on_back.smd
+        lying_on_side.smd
+        lying_on_stomach.smd
+        stuffed_in_vent.smd
+        standing_idle.smd
+        cprbarney.smd
+        cprbarneyrevive.smd
+        barney_dragvent.smd
+        dying_barney.smd
+        dying_barneyidle.smd
+        dying_friend.smd
+        dying_friendidle.smd
+        c1a3_bidle.smd
+        c1a3_ventb.smd
+        c1a3_emergeidle.smd
+        c1a3_emerge.smd
+        haulbarney.smd
+        intropush.smd
+        fence.smd
+        sit1.smd
+        almostidle.smd
+        almost.smd
+        laseridle.smd
+        laser_top.smd
+        laser_bottom.smd
+        barneyfallidle.smd
+        barneyfall.smd
+        c3a2_draw.smd
+        unlatch.smd
+        retina.smd
+        relaxstand.smd
+        assassinated.smd
+        trackswitch.smd
+        pepsiswing.smd
+        pepsipush.smd
+        buttonpush.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\annie.mdl" finished.
+
+  Decompiling ".\annie01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\annie01.mdl" FAILED.
+
+  Decompiling ".\annie02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\annie02.mdl" FAILED.
+
+  Decompiling ".\annie03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\annie03.mdl" FAILED.
+
+  Decompiling ".\anniet.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\anniet.mdl" stopped due to error.
+
+  Decompiling ".\arrow.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        arrow.qc
+      Reference mesh files: 
+        crossbow_bolt.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\arrow.mdl" finished.
+
+  Decompiling ".\bandit_mex.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        bandit_mex.qc
+      Reference mesh files: 
+        gruntbody.smd
+        grunthead.smd
+        commanderhead.smd
+        shotgunhead.smd
+        m203_head.smd
+        gunreference(shotgun).smd
+        gunreference.smd
+      Bone animation files: 
+        walk1.smd
+        run.smd
+        victorydance.smd
+        cower.smd
+        smflinch.smd
+        leftlegsmflinch.smd
+        rightlegsmflinch.smd
+        rightarmflinch.smd
+        leftarmflinch.smd
+        launchgrenade.smd
+        throwgrenade.smd
+        idle1.smd
+        idle2.smd
+        combatidle.smd
+        frontkick.smd
+        crouching_wait.smd
+        crouching_mp5_blend01.smd
+        crouching_mp5_blend02.smd
+        reload_mp5.smd
+        crouching_shotgun_blend01.smd
+        crouching_shotgun_blend02.smd
+        advance_signal.smd
+        flank_signal.smd
+        retreat_signal.smd
+        drop_grenade.smd
+        limpingwalk.smd
+        limpingrun.smd
+        180L.smd
+        180R.smd
+        strafeleft.smd
+        straferight.smd
+        dieback1.smd
+        dieforward.smd
+        diesimple.smd
+        diebackwards.smd
+        dieheadshot.smd
+        diegutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        repel_jump.smd
+        repel_repel.smd
+        repel_shoot_blend01.smd
+        repel_shoot_blend02.smd
+        repel_land.smd
+        crouching_idle.smd
+        standing_mp5_blend01.smd
+        standing_mp5_blend02.smd
+        standing_shotgun_blend01.smd
+        standing_shotgun_blend02.smd
+        reload_shotgun.smd
+        dead_on_stomach.smd
+        deadstomach.smd
+        deadside.smd
+        deadsitting.smd
+        repel_die.smd
+        dragholeidle.smd
+        draghole.smd
+        bustwall.smd
+        hoprail.smd
+        converse1.smd
+        converse2.smd
+        startleleft.smd
+        startleright.smd
+        divecover.smd
+        defuse.smd
+        corner1.smd
+        corner2.smd
+        stone_toss.smd
+        cliffdie.smd
+        diveaside_idle.smd
+        diveaside.smd
+        kneeldive_idle.smd
+        kneeldive.smd
+        WM_button.smd
+        WM_moatjump.smd
+        bustwindow.smd
+        dragleft.smd
+        dragright.smd
+        trackwave.smd
+        trackdive.smd
+        flyback.smd
+        impaled.smd
+        jumptracks.smd
+        pipetoss.smd
+        plunger.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\bandit_mex.mdl" finished.
+
+  Decompiling ".\bandit_mex01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bandit_mex01.mdl" FAILED.
+
+  Decompiling ".\bandit_mex02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bandit_mex02.mdl" FAILED.
+
+  Decompiling ".\bandit_mex03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bandit_mex03.mdl" FAILED.
+
+  Decompiling ".\bandit_mext.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\bandit_mext.mdl" stopped due to error.
+
+  Decompiling ".\bear.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        bear.qc
+      Reference mesh files: 
+        bear_reference.smd
+      Bone animation files: 
+        bear_walk.smd
+        bear_run.smd
+        bear_pounce.smd
+        bear_flinch.smd
+        bear_standup.smd
+        bear_standingidle01.smd
+        bear_standingidle02.smd
+        bear_standdown.smd
+        bear_idle01.smd
+        bear_idle02.smd
+        bear_idle03.smd
+        bear_turnr.smd
+        bear_turnl.smd
+        bear_claw.smd
+        bear_claw02.smd
+        bear_sleep.smd
+        bear_wake.smd
+        bear_die01.smd
+        bear_die02.smd
+        bear_diestanding.smd
+        bear_dead01.smd
+        bear_dead02.smd
+        bear_deadstanding.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\bear.mdl" finished.
+
+  Decompiling ".\beargibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        beargibs.qc
+      Reference mesh files: 
+        Flesh1.smd
+        Flesh2.smd
+        Flesh3.smd
+        Flesh4.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\beargibs.mdl" finished.
+
+  Decompiling ".\bearT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\bearT.mdl" stopped due to error.
+
+  Decompiling ".\bigminer.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        bigminer.qc
+      Reference mesh files: 
+        miner1.smd
+        ponytail_head.smd
+        greybeard_head.smd
+        lilbill_head.smd
+        luther_head.smd
+      Bone animation files: 
+        walk1.smd
+        run.smd
+        victorydance.smd
+        cower.smd
+        smflinch.smd
+        leftlegsmflinch.smd
+        rightlegsmflinch.smd
+        rightarmflinch.smd
+        leftarmflinch.smd
+        launchgrenade.smd
+        throwgrenade.smd
+        idle1.smd
+        idle2.smd
+        combatidle.smd
+        frontkick.smd
+        crouching_wait.smd
+        crouching_mp5_blend01.smd
+        crouching_mp5_blend02.smd
+        reload_mp5.smd
+        crouching_shotgun_blend01.smd
+        crouching_shotgun_blend02.smd
+        advance_signal.smd
+        flank_signal.smd
+        retreat_signal.smd
+        drop_grenade.smd
+        limpingwalk.smd
+        limpingrun.smd
+        180L.smd
+        180R.smd
+        strafeleft.smd
+        straferight.smd
+        dieback1.smd
+        dieforward.smd
+        diesimple.smd
+        diebackwards.smd
+        dieheadshot.smd
+        diegutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        repel_jump.smd
+        repel_repel.smd
+        repel_shoot_blend01.smd
+        repel_shoot_blend02.smd
+        repel_land.smd
+        crouching_idle.smd
+        standing_mp5_blend01.smd
+        standing_mp5_blend02.smd
+        standing_shotgun_blend01.smd
+        standing_shotgun_blend02.smd
+        reload_shotgun.smd
+        dead_on_stomach.smd
+        deadstomach.smd
+        deadside.smd
+        deadsitting.smd
+        repel_die.smd
+        dragholeidle.smd
+        draghole.smd
+        bustwall.smd
+        hoprail.smd
+        converse1.smd
+        converse2.smd
+        startleleft.smd
+        startleright.smd
+        divecover.smd
+        defuse.smd
+        corner1.smd
+        corner2.smd
+        stone_toss.smd
+        cliffdie.smd
+        diveaside_idle.smd
+        diveaside.smd
+        kneeldive_idle.smd
+        kneeldive.smd
+        WM_button.smd
+        WM_moatjump.smd
+        bustwindow.smd
+        dragleft.smd
+        dragright.smd
+        trackwave.smd
+        trackdive.smd
+        flyback.smd
+        impaled.smd
+        jumptracks.smd
+        pipetoss.smd
+        plunger.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\bigminer.mdl" finished.
+
+  Decompiling ".\bigminer01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bigminer01.mdl" FAILED.
+
+  Decompiling ".\bigminer02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bigminer02.mdl" FAILED.
+
+  Decompiling ".\bigminer03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bigminer03.mdl" FAILED.
+
+  Decompiling ".\bigminer04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\bigminer04.mdl" FAILED.
+
+  Decompiling ".\bigminerT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\bigminerT.mdl" stopped due to error.
+
+  Decompiling ".\big_rock.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        big_rock.qc
+      Reference mesh files: 
+        large_rock_reference.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\big_rock.mdl" finished.
+
+  Decompiling ".\bottle.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        bottle.qc
+      Reference mesh files: 
+        bottle.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\bottle.mdl" finished.
+
+  Decompiling ".\bottleT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\bottleT.mdl" stopped due to error.
+
+  Decompiling ".\bow.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        bow.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\bow.mdl" finished.
+
+  Decompiling ".\buffalogunshell.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ERROR: Texture MDL file not found.
+
+  Decompiling ".\cactus.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        cactus.qc
+      Reference mesh files: 
+        cactus1.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\cactus.mdl" finished.
+
+  Decompiling ".\cactusT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\cactusT.mdl" stopped due to error.
+
+  Decompiling ".\cannonball.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        cannonball.qc
+      Reference mesh files: 
+        rocket.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\cannonball.mdl" finished.
+
+  Decompiling ".\chicken.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        chicken.qc
+      Reference mesh files: 
+        chicken_reference(body).smd
+        chicken_reference(hen).smd
+        chicken_reference(cock).smd
+      Bone animation files: 
+        chicken_idle1.smd
+        chicken_idle2.smd
+        chicken_idle3.smd
+        chicken_idle4.smd
+        chicken_walk.smd
+        chicken_run.smd
+        chicken_die.smd
+        chicken_dead.smd
+        chicken_peck.smd
+        chicken_crow.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\chicken.mdl" finished.
+
+  Decompiling ".\chickengibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        chickengibs.qc
+      Reference mesh files: 
+        chicken_leg.smd
+        chicken_featherb.smd
+        chicken_feathers.smd
+        chicken_meat.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\chickengibs.mdl" finished.
+
+  Decompiling ".\chickenT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\chickenT.mdl" stopped due to error.
+
+  Decompiling ".\cindergibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        cindergibs.qc
+      Reference mesh files: 
+        sand_1.smd
+        sand_2.smd
+        sand_3.smd
+        sand_4.smd
+        sand_1_2.smd
+        sand_2_2.smd
+        sand_3_2.smd
+        sand_4_2.smd
+        sand_1_3.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\cindergibs.mdl" finished.
+
+  Decompiling ".\colonel.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        colonel.qc
+      Reference mesh files: 
+        colonel_ref.smd
+      Bone animation files: 
+        pose.smd
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\colonel.mdl" finished.
+
+  Decompiling ".\colonelT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\colonelT.mdl" stopped due to error.
+
+  Decompiling ".\colonel_tied.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        colonel_tied.qc
+      Reference mesh files: 
+        colonel_tied_ref.smd
+      Bone animation files: 
+        fight.smd
+        talk.smd
+        dead.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\colonel_tied.mdl" finished.
+
+  Decompiling ".\colonel_tiedT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\colonel_tiedT.mdl" stopped due to error.
+
+  Decompiling ".\coltsshell.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        coltsshell.qc
+      Reference mesh files: 
+        shellcase.smd
+      Bone animation files: 
+        shell.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\coltsshell.mdl" finished.
+
+  Decompiling ".\coltsshellt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\coltsshellt.mdl" stopped due to error.
+
+  Decompiling ".\concretegibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        concretegibs.qc
+      Reference mesh files: 
+        chunk1_big.smd
+        chunk1_biggest.smd
+        chunk1_small.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\concretegibs.mdl" finished.
+
+  Decompiling ".\Cowboy.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        Cowboy.qc
+      Reference mesh files: 
+        gruntbody.smd
+        grunthead.smd
+        commanderhead.smd
+        shotgunhead.smd
+        m203_head.smd
+        gunreference.smd
+        gunreference(shotgun).smd
+      Bone animation files: 
+        walk1.smd
+        run.smd
+        victorydance.smd
+        cower.smd
+        smflinch.smd
+        leftlegsmflinch.smd
+        rightlegsmflinch.smd
+        rightarmflinch.smd
+        leftarmflinch.smd
+        launchgrenade.smd
+        throwgrenade.smd
+        idle1.smd
+        idle2.smd
+        combatidle.smd
+        frontkick.smd
+        crouching_wait.smd
+        crouching_mp5_blend01.smd
+        crouching_mp5_blend02.smd
+        reload_mp5.smd
+        crouching_shotgun_blend01.smd
+        crouching_shotgun_blend02.smd
+        advance_signal.smd
+        flank_signal.smd
+        retreat_signal.smd
+        drop_grenade.smd
+        limpingwalk.smd
+        limpingrun.smd
+        180L.smd
+        180R.smd
+        strafeleft.smd
+        straferight.smd
+        dieback1.smd
+        dieforward.smd
+        diesimple.smd
+        diebackwards.smd
+        dieheadshot.smd
+        diegutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        repel_jump.smd
+        repel_repel.smd
+        repel_shoot_blend01.smd
+        repel_shoot_blend02.smd
+        repel_land.smd
+        crouching_idle.smd
+        standing_mp5_blend01.smd
+        standing_mp5_blend02.smd
+        standing_shotgun_blend01.smd
+        standing_shotgun_blend02.smd
+        reload_shotgun.smd
+        dead_on_stomach.smd
+        deadstomach.smd
+        deadside.smd
+        deadsitting.smd
+        repel_die.smd
+        dragholeidle.smd
+        draghole.smd
+        bustwall.smd
+        hoprail.smd
+        converse1.smd
+        converse2.smd
+        startleleft.smd
+        startleright.smd
+        divecover.smd
+        defuse.smd
+        corner1.smd
+        corner2.smd
+        stone_toss.smd
+        cliffdie.smd
+        diveaside_idle.smd
+        diveaside.smd
+        kneeldive_idle.smd
+        kneeldive.smd
+        WM_button.smd
+        WM_moatjump.smd
+        bustwindow.smd
+        dragleft.smd
+        dragright.smd
+        trackwave.smd
+        trackdive.smd
+        flyback.smd
+        impaled.smd
+        jumptracks.smd
+        pipetoss.smd
+        plunger.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\Cowboy.mdl" finished.
+
+  Decompiling ".\Cowboy01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\Cowboy01.mdl" FAILED.
+
+  Decompiling ".\Cowboy02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\Cowboy02.mdl" FAILED.
+
+  Decompiling ".\Cowboy03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\Cowboy03.mdl" FAILED.
+
+  Decompiling ".\Cowboyt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\Cowboyt.mdl" stopped due to error.
+
+  Decompiling ".\crispen.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        crispen.qc
+      Reference mesh files: 
+        crispen.smd
+        SCI2_Template_Biped(Needle_Hand)1.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\crispen.mdl" finished.
+
+  Decompiling ".\crispen01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen01.mdl" FAILED.
+
+  Decompiling ".\crispen02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen02.mdl" FAILED.
+
+  Decompiling ".\crispen03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen03.mdl" FAILED.
+
+  Decompiling ".\crispen04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen04.mdl" FAILED.
+
+  Decompiling ".\crispen05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen05.mdl" FAILED.
+
+  Decompiling ".\crispen06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen06.mdl" FAILED.
+
+  Decompiling ".\crispen07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\crispen07.mdl" FAILED.
+
+  Decompiling ".\crispenT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\crispenT.mdl" stopped due to error.
+
+  Decompiling ".\dawsongibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        dawsongibs.qc
+      Reference mesh files: 
+        wood4.smd
+        box01.smd
+        wood3.smd
+        wood2.smd
+        box02.smd
+        box03.smd
+        box04.smd
+        can01.smd
+        wood3_2.smd
+        can02.smd
+        can03.smd
+        wood1.smd
+        wood2_2.smd
+        wood1_2.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\dawsongibs.mdl" finished.
+
+  Decompiling ".\deadnote.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        deadnote.qc
+      Reference mesh files: 
+        envelope1.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\deadnote.mdl" finished.
+
+  Decompiling ".\dish.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        dish.qc
+      Reference mesh files: 
+        dish.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\dish.mdl" finished.
+
+  Decompiling ".\dishT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\dishT.mdl" stopped due to error.
+
+  Decompiling ".\dynamite.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        dynamite.qc
+      Reference mesh files: 
+        grenade1_update.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\dynamite.mdl" finished.
+
+  Decompiling ".\dyndave.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        dyndave.qc
+      Reference mesh files: 
+        dave_ref.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+        gelly.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\dyndave.mdl" finished.
+
+  Decompiling ".\dyndaveT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\dyndaveT.mdl" stopped due to error.
+
+  Decompiling ".\eagle.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        eagle.qc
+      Reference mesh files: 
+        Aflock_reference.smd
+      Bone animation files: 
+        idle.smd
+        fly.smd
+        fly2.smd
+        bankL.smd
+        bankR.smd
+        hit.smd
+        wounded.smd
+        crash.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\eagle.mdl" finished.
+
+  Decompiling ".\feathers.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        feathers.qc
+      Reference mesh files: 
+        feathers.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\feathers.mdl" finished.
+
+  Decompiling ".\feathersT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\feathersT.mdl" stopped due to error.
+
+  Decompiling ".\flag1.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        flag1.qc
+      Reference mesh files: 
+        Flag_Biped1.smd
+      Bone animation files: 
+        wave_idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\flag1.mdl" finished.
+
+  Decompiling ".\flag2.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        flag2.qc
+      Reference mesh files: 
+        Flag_Biped1.smd
+      Bone animation files: 
+        wave_idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\flag2.mdl" finished.
+
+  Decompiling ".\flag3.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        flag3.qc
+      Reference mesh files: 
+        Flag_Biped1.smd
+      Bone animation files: 
+        wave_idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\flag3.mdl" finished.
+
+  Decompiling ".\flag4.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        flag4.qc
+      Reference mesh files: 
+        Flag_Biped1.smd
+      Bone animation files: 
+        wave_idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\flag4.mdl" finished.
+
+  Decompiling ".\gattling_belt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        gattling_belt.qc
+      Reference mesh files: 
+        shellcase.smd
+      Bone animation files: 
+        shell.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\gattling_belt.mdl" finished.
+
+  Decompiling ".\glass.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        glass.qc
+      Reference mesh files: 
+        glass.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\glass.mdl" finished.
+
+  Decompiling ".\glassgibs_small.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        glassgibs_small.qc
+      Reference mesh files: 
+        shard1.smd
+        shard2.smd
+        shard3.smd
+        shard4.smd
+        shard5.smd
+        shard6.smd
+        shard7.smd
+        shard8.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\glassgibs_small.mdl" finished.
+
+  Decompiling ".\glassT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\glassT.mdl" stopped due to error.
+
+  Decompiling ".\herbs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        herbs.qc
+      Reference mesh files: 
+        healing_herbs.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\herbs.mdl" finished.
+
+  Decompiling ".\horse.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        horse.qc
+      Reference mesh files: 
+        horse_reference.smd
+        horse_indian.smd
+      Bone animation files: 
+        horse_idle01.smd
+        horse_idle02.smd
+        horse_idle03.smd
+        horse_attack.smd
+        horse_walk.smd
+        horse_die01.smd
+        horse_dead01.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\horse.mdl" finished.
+
+  Decompiling ".\horsegibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        horsegibs.qc
+      Reference mesh files: 
+        horse_head.smd
+        horse_leg.smd
+        horse_meat.smd
+        horse_entrails.smd
+      Bone animation files: 
+        horse_idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\horsegibs.mdl" finished.
+
+  Decompiling ".\horseT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\horseT.mdl" stopped due to error.
+
+  Decompiling ".\hoss.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        hoss.qc
+      Reference mesh files: 
+        BARNEY-X_Template_Biped1.smd
+        BARNEY-X_Template_Biped(Gun-Hlstr)1.smd
+        BARNEY-X_Template_Biped(Gun)1.smd
+      Bone animation files: 
+        idle1.smd
+        idle2.smd
+        idle3.smd
+        idle4.smd
+        walk.smd
+        run.smd
+        shootgun_blend01.smd
+        shootgun_blend02.smd
+        shootgun2_blend01.smd
+        shootgun2_blend02.smd
+        draw.smd
+        disarm.smd
+        reload.smd
+        turnleft.smd
+        turnright.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        smlflinch.smd
+        diesimple.smd
+        dieviolent.smd
+        diegutshot.smd
+        dieforward.smd
+        diebackward.smd
+        diecrump.smd
+        barnaclehit.smd
+        barnaclepull.smd
+        barnaclecrunch.smd
+        barnaclechew.smd
+        cower_stand.smd
+        locked_door.smd
+        fall_loop.smd
+        barn_wave.smd
+        beat_grunt.smd
+        beat_gruntidle.smd
+        flashlight.smd
+        lying_on_back.smd
+        lying_on_side.smd
+        lying_on_stomach.smd
+        stuffed_in_vent.smd
+        standing_idle.smd
+        cprbarney.smd
+        cprbarneyrevive.smd
+        barney_dragvent.smd
+        dying_barney.smd
+        dying_barneyidle.smd
+        dying_friend.smd
+        dying_friendidle.smd
+        c1a3_bidle.smd
+        c1a3_ventb.smd
+        c1a3_emergeidle.smd
+        c1a3_emerge.smd
+        haulbarney.smd
+        intropush.smd
+        fence.smd
+        sit1.smd
+        almostidle.smd
+        almost.smd
+        laseridle.smd
+        laser_top.smd
+        laser_bottom.smd
+        barneyfallidle.smd
+        barneyfall.smd
+        c3a2_draw.smd
+        unlatch.smd
+        retina.smd
+        relaxstand.smd
+        assassinated.smd
+        trackswitch.smd
+        pepsiswing.smd
+        pepsipush.smd
+        buttonpush.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\hoss.mdl" finished.
+
+  Decompiling ".\hoss01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\hoss01.mdl" FAILED.
+
+  Decompiling ".\hoss02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\hoss02.mdl" FAILED.
+
+  Decompiling ".\hoss03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\hoss03.mdl" FAILED.
+
+  Decompiling ".\hossT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\hossT.mdl" stopped due to error.
+
+  Decompiling ".\kaiewi.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        kaiewi.qc
+      Reference mesh files: 
+        indian2.smd
+        indian_head1.smd
+        indian_head2.smd
+        indian_head3.smd
+        indian_head4.smd
+        indian_bow.smd
+        gunreference(shotgun).smd
+      Bone animation files: 
+        walk1.smd
+        run.smd
+        victorydance.smd
+        cower.smd
+        smflinch.smd
+        leftlegsmflinch.smd
+        rightlegsmflinch.smd
+        rightarmflinch.smd
+        leftarmflinch.smd
+        launchgrenade.smd
+        throwgrenade.smd
+        idle1.smd
+        idle2.smd
+        combatidle.smd
+        frontkick.smd
+        crouching_wait.smd
+        crouching_mp5_blend01.smd
+        crouching_mp5_blend02.smd
+        reload_mp5.smd
+        crouching_shotgun_blend01.smd
+        crouching_shotgun_blend02.smd
+        advance_signal.smd
+        flank_signal.smd
+        retreat_signal.smd
+        drop_grenade.smd
+        limpingwalk.smd
+        limpingrun.smd
+        180L.smd
+        180R.smd
+        strafeleft.smd
+        straferight.smd
+        dieback1.smd
+        dieforward.smd
+        diesimple.smd
+        diebackwards.smd
+        dieheadshot.smd
+        diegutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        repel_jump.smd
+        repel_repel.smd
+        repel_shoot_blend01.smd
+        repel_shoot_blend02.smd
+        repel_land.smd
+        crouching_idle.smd
+        standing_shotgun_blend01.smd
+        standing_shotgun_blend02.smd
+        standing_mp5_blend01.smd
+        standing_mp5_blend02.smd
+        reload_shotgun.smd
+        dead_on_stomach.smd
+        deadstomach.smd
+        deadside.smd
+        deadsitting.smd
+        repel_die.smd
+        dragholeidle.smd
+        draghole.smd
+        bustwall.smd
+        hoprail.smd
+        converse1.smd
+        converse2.smd
+        startleleft.smd
+        startleright.smd
+        divecover.smd
+        defuse.smd
+        corner1.smd
+        corner2.smd
+        stone_toss.smd
+        cliffdie.smd
+        diveaside_idle.smd
+        diveaside.smd
+        kneeldive_idle.smd
+        kneeldive.smd
+        WM_button.smd
+        WM_moatjump.smd
+        bustwindow.smd
+        dragleft.smd
+        dragright.smd
+        trackwave.smd
+        trackdive.smd
+        flyback.smd
+        impaled.smd
+        jumptracks.smd
+        pipetoss.smd
+        plunger.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\kaiewi.mdl" finished.
+
+  Decompiling ".\kaiewi01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\kaiewi01.mdl" FAILED.
+
+  Decompiling ".\kaiewi02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\kaiewi02.mdl" FAILED.
+
+  Decompiling ".\kaiewi03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\kaiewi03.mdl" FAILED.
+
+  Decompiling ".\kaiewiT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\kaiewiT.mdl" stopped due to error.
+
+  Decompiling ".\knockout.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        knockout.qc
+      Reference mesh files: 
+        teleporter_blue_sprites_ref.smd
+      Bone animation files: 
+        orbit.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\knockout.mdl" finished.
+
+  Decompiling ".\leech.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        leech.qc
+      Reference mesh files: 
+        reference.smd
+      Bone animation files: 
+        swim.smd
+        swim2.smd
+        attack.smd
+        hover.smd
+        leftturn.smd
+        rightturn.smd
+        death.smd
+        death_end.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\leech.mdl" finished.
+
+  Decompiling ".\masala.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        masala.qc
+      Reference mesh files: 
+        newmasala.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\masala.mdl" finished.
+
+  Decompiling ".\masala01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala01.mdl" FAILED.
+
+  Decompiling ".\masala02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala02.mdl" FAILED.
+
+  Decompiling ".\masala03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala03.mdl" FAILED.
+
+  Decompiling ".\masala04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala04.mdl" FAILED.
+
+  Decompiling ".\masala05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala05.mdl" FAILED.
+
+  Decompiling ".\masala06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala06.mdl" FAILED.
+
+  Decompiling ".\masala07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\masala07.mdl" FAILED.
+
+  Decompiling ".\masalat.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\masalat.mdl" stopped due to error.
+
+  Decompiling ".\medicine.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        medicine.qc
+      Reference mesh files: 
+        medicine_bottle.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\medicine.mdl" finished.
+
+  Decompiling ".\nagatow.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        nagatow.qc
+      Reference mesh files: 
+        SCI3_Template_Biped1(Headless_Body).smd
+        SCI3_Template_Biped1(NerdHead).smd
+        SCI2_Template_Biped1(EinstienHead).smd
+        SCI3_Template_Biped1(LutherHead).smd
+        SCI3_Template_Biped1(SlickHead).smd
+        SCI2_Template_Biped(Needle_Hand)1.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+        stickwave.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\nagatow.mdl" finished.
+
+  Decompiling ".\nagatow01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow01.mdl" FAILED.
+
+  Decompiling ".\nagatow02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow02.mdl" FAILED.
+
+  Decompiling ".\nagatow03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow03.mdl" FAILED.
+
+  Decompiling ".\nagatow04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow04.mdl" FAILED.
+
+  Decompiling ".\nagatow05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow05.mdl" FAILED.
+
+  Decompiling ".\nagatow06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow06.mdl" FAILED.
+
+  Decompiling ".\nagatow07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\nagatow07.mdl" FAILED.
+
+  Decompiling ".\nagatowt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\nagatowt.mdl" stopped due to error.
+
+  Decompiling ".\pickaxe.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        pickaxe.qc
+      Reference mesh files: 
+        pickaxe.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\pickaxe.mdl" finished.
+
+  Decompiling ".\pickaxeT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\pickaxeT.mdl" stopped due to error.
+
+  Decompiling ".\puma.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        puma.qc
+      Reference mesh files: 
+        puma_reference.smd
+      Bone animation files: 
+        puma_run.smd
+        puma_walk.smd
+        puma_sit01.smd
+        puma_sit02.smd
+        puma_getup.smd
+        puma_lie.smd
+        puma_standup.smd
+        puma_turnr.smd
+        puma_turnl.smd
+        puma_idle01.smd
+        puma_claw.smd
+        puma_pounce.smd
+        puma_dierun.smd
+        puma_deadrun.smd
+        puma_die01.smd
+        puma_dead01.smd
+        puma_die02.smd
+        puma_dead02.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\puma.mdl" finished.
+
+  Decompiling ".\pumagibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        pumagibs.qc
+      Reference mesh files: 
+        Flesh1.smd
+        Flesh2.smd
+        Flesh3.smd
+        Flesh4.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\pumagibs.mdl" finished.
+
+  Decompiling ".\pumaT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\pumaT.mdl" stopped due to error.
+
+  Decompiling ".\p_beartrap.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_beartrap.qc
+      Reference mesh files: 
+        reference_grenade.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_beartrap.mdl" finished.
+
+  Decompiling ".\p_bow.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_bow.qc
+      Reference mesh files: 
+        reference_crowbar.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_bow.mdl" finished.
+
+  Decompiling ".\p_buffalogun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_buffalogun.qc
+      Reference mesh files: 
+        reference_shotgun.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_buffalogun.mdl" finished.
+
+  Decompiling ".\p_cannon.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_cannon.qc
+      Reference mesh files: 
+        reference_rpg.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_cannon.mdl" finished.
+
+  Decompiling ".\p_chicken.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_chicken.qc
+      Reference mesh files: 
+        p_chicken_reference.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_chicken.mdl" finished.
+
+  Decompiling ".\p_colts.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_colts.qc
+      Reference mesh files: 
+        p_colts_ref.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_colts.mdl" finished.
+
+  Decompiling ".\p_dynamite.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_dynamite.qc
+      Reference mesh files: 
+        reference_grenade.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_dynamite.mdl" finished.
+
+  Decompiling ".\p_gattlinggun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_gattlinggun.qc
+      Reference mesh files: 
+        reference_gatling.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_gattlinggun.mdl" finished.
+
+  Decompiling ".\p_knife.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_knife.qc
+      Reference mesh files: 
+        reference_crowbar.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_knife.mdl" finished.
+
+  Decompiling ".\p_pick.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_pick.qc
+      Reference mesh files: 
+        p_pick.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_pick.mdl" finished.
+
+  Decompiling ".\p_pistol.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_pistol.qc
+      Reference mesh files: 
+        p_colt.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_pistol.mdl" finished.
+
+  Decompiling ".\p_scorpion.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_scorpion.qc
+      Reference mesh files: 
+        p_scorpion_reference.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_scorpion.mdl" finished.
+
+  Decompiling ".\p_shotgun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_shotgun.qc
+      Reference mesh files: 
+        reference_shotgun.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_shotgun.mdl" finished.
+
+  Decompiling ".\p_winchester.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        p_winchester.qc
+      Reference mesh files: 
+        reference_shotgun.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\p_winchester.mdl" finished.
+
+  Decompiling ".\ramone.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        ramone.qc
+      Reference mesh files: 
+        ramone_reference.smd
+        gunreference(shotgun).smd
+      Bone animation files: 
+        walk1.smd
+        run.smd
+        victorydance.smd
+        cower.smd
+        smflinch.smd
+        leftlegsmflinch.smd
+        rightlegsmflinch.smd
+        rightarmflinch.smd
+        leftarmflinch.smd
+        launchgrenade.smd
+        throwgrenade.smd
+        idle1.smd
+        idle2.smd
+        combatidle.smd
+        frontkick.smd
+        crouching_wait.smd
+        crouching_mp5_blend01.smd
+        crouching_mp5_blend02.smd
+        reload_mp5.smd
+        crouching_shotgun_blend01.smd
+        crouching_shotgun_blend02.smd
+        advance_signal.smd
+        flank_signal.smd
+        retreat_signal.smd
+        drop_grenade.smd
+        limpingwalk.smd
+        limpingrun.smd
+        180L.smd
+        180R.smd
+        strafeleft.smd
+        straferight.smd
+        dieback1.smd
+        dieforward.smd
+        diesimple.smd
+        diebackwards.smd
+        dieheadshot.smd
+        diegutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        repel_jump.smd
+        repel_repel.smd
+        repel_shoot_blend01.smd
+        repel_shoot_blend02.smd
+        repel_land.smd
+        crouching_idle.smd
+        standing_mp5_blend01.smd
+        standing_mp5_blend02.smd
+        standing_shotgun_blend01.smd
+        standing_shotgun_blend02.smd
+        reload_shotgun.smd
+        dead_on_stomach.smd
+        deadstomach.smd
+        deadside.smd
+        deadsitting.smd
+        repel_die.smd
+        dragholeidle.smd
+        draghole.smd
+        bustwall.smd
+        hoprail.smd
+        converse1.smd
+        converse2.smd
+        startleleft.smd
+        startleright.smd
+        divecover.smd
+        defuse.smd
+        corner1.smd
+        corner2.smd
+        stone_toss.smd
+        cliffdie.smd
+        diveaside_idle.smd
+        diveaside.smd
+        kneeldive_idle.smd
+        kneeldive.smd
+        WM_button.smd
+        WM_moatjump.smd
+        bustwindow.smd
+        dragleft.smd
+        dragright.smd
+        trackwave.smd
+        trackdive.smd
+        flyback.smd
+        impaled.smd
+        jumptracks.smd
+        pipetoss.smd
+        plunger.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\ramone.mdl" finished.
+
+  Decompiling ".\ramone01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\ramone01.mdl" FAILED.
+
+  Decompiling ".\ramone02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\ramone02.mdl" FAILED.
+
+  Decompiling ".\ramone03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\ramone03.mdl" FAILED.
+
+  Decompiling ".\ramoneT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\ramoneT.mdl" stopped due to error.
+
+  Decompiling ".\rogan.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        rogan.qc
+      Reference mesh files: 
+        SCI3_Template_Biped1(Headless_Body).smd
+        SCI3_Template_Biped1(NerdHead).smd
+        SCI2_Template_Biped1(EinstienHead).smd
+        SCI3_Template_Biped1(LutherHead).smd
+        SCI3_Template_Biped1(SlickHead).smd
+        SCI2_Template_Biped(Needle_Hand)1.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\rogan.mdl" finished.
+
+  Decompiling ".\rogan01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan01.mdl" FAILED.
+
+  Decompiling ".\rogan02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan02.mdl" FAILED.
+
+  Decompiling ".\rogan03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan03.mdl" FAILED.
+
+  Decompiling ".\rogan04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan04.mdl" FAILED.
+
+  Decompiling ".\rogan05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan05.mdl" FAILED.
+
+  Decompiling ".\rogan06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan06.mdl" FAILED.
+
+  Decompiling ".\rogan07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\rogan07.mdl" FAILED.
+
+  Decompiling ".\roganT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\roganT.mdl" stopped due to error.
+
+  Decompiling ".\rogan_rider.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        rogan_rider.qc
+      Reference mesh files: 
+        rogan_rider.smd
+      Bone animation files: 
+        idle1.smd
+        run.smd
+        walk.smd
+        climbon.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\rogan_rider.mdl" finished.
+
+  Decompiling ".\rpgrocket.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        rpgrocket.qc
+      Reference mesh files: 
+        rocket.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\rpgrocket.mdl" finished.
+
+  Decompiling ".\shell.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        shell.qc
+      Reference mesh files: 
+        shellcase.smd
+      Bone animation files: 
+        shell.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\shell.mdl" finished.
+
+  Decompiling ".\shovel.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        shovel.qc
+      Reference mesh files: 
+        shovel.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\shovel.mdl" finished.
+
+  Decompiling ".\shovelT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\shovelT.mdl" stopped due to error.
+
+  Decompiling ".\skeleton.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        skeleton.qc
+      Reference mesh files: 
+        SKELETON_Template_Biped1.smd
+      Bone animation files: 
+        s_onback.smd
+        s_sitting.smd
+        dead_against_wall.smd
+        dead_stomach.smd
+        skelly_jig.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\skeleton.mdl" finished.
+
+  Decompiling ".\smallminer.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        smallminer.qc
+      Reference mesh files: 
+        miner2.smd
+        pappy_head.smd
+        reb_head.smd
+        crazy_eke_head.smd
+        skinny_head.smd
+        pick_ref.smd
+      Bone animation files: 
+        walk1.smd
+        run.smd
+        victorydance.smd
+        cower.smd
+        smflinch.smd
+        leftlegsmflinch.smd
+        rightlegsmflinch.smd
+        rightarmflinch.smd
+        leftarmflinch.smd
+        launchgrenade.smd
+        throwgrenade.smd
+        idle1.smd
+        idle2.smd
+        combatidle.smd
+        frontkick.smd
+        crouching_wait.smd
+        crouching_mp5_blend01.smd
+        crouching_mp5_blend02.smd
+        reload_mp5.smd
+        crouching_shotgun_blend01.smd
+        crouching_shotgun_blend02.smd
+        advance_signal.smd
+        flank_signal.smd
+        retreat_signal.smd
+        drop_grenade.smd
+        limpingwalk.smd
+        limpingrun.smd
+        180L.smd
+        180R.smd
+        strafeleft.smd
+        straferight.smd
+        dieback1.smd
+        dieforward.smd
+        diesimple.smd
+        diebackwards.smd
+        dieheadshot.smd
+        diegutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        repel_jump.smd
+        repel_repel.smd
+        repel_shoot_blend01.smd
+        repel_shoot_blend02.smd
+        repel_land.smd
+        crouching_idle.smd
+        standing_mp5_blend01.smd
+        standing_mp5_blend02.smd
+        standing_shotgun_blend01.smd
+        standing_shotgun_blend02.smd
+        reload_shotgun.smd
+        dead_on_stomach.smd
+        deadstomach.smd
+        deadside.smd
+        deadsitting.smd
+        repel_die.smd
+        dragholeidle.smd
+        draghole.smd
+        bustwall.smd
+        hoprail.smd
+        converse1.smd
+        converse2.smd
+        startleleft.smd
+        startleright.smd
+        divecover.smd
+        defuse.smd
+        corner1.smd
+        corner2.smd
+        stone_toss.smd
+        cliffdie.smd
+        diveaside_idle.smd
+        diveaside.smd
+        kneeldive_idle.smd
+        kneeldive.smd
+        WM_button.smd
+        WM_moatjump.smd
+        bustwindow.smd
+        dragleft.smd
+        dragright.smd
+        trackwave.smd
+        trackdive.smd
+        flyback.smd
+        impaled.smd
+        jumptracks.smd
+        pipetoss.smd
+        plunger.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\smallminer.mdl" finished.
+
+  Decompiling ".\smallminer01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\smallminer01.mdl" FAILED.
+
+  Decompiling ".\smallminer02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\smallminer02.mdl" FAILED.
+
+  Decompiling ".\smallminer03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\smallminer03.mdl" FAILED.
+
+  Decompiling ".\smallminerT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\smallminerT.mdl" stopped due to error.
+
+  Decompiling ".\smithgibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        smithgibs.qc
+      Reference mesh files: 
+        horseshoe01.smd
+        horseshoe02.smd
+        pincers.smd
+        hammer.smd
+      Bone animation files: 
+        idle2.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\smithgibs.mdl" finished.
+
+  Decompiling ".\snake.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        snake.qc
+      Reference mesh files: 
+        snake.smd
+      Bone animation files: 
+        idle1.smd
+        walk.smd
+        attack1.smd
+        diesimple.smd
+        deadsimle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\snake.mdl" finished.
+
+  Decompiling ".\snakegibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        snakegibs.qc
+      Reference mesh files: 
+        snake_jawbone.smd
+        snake_tail.smd
+        snake_meat.smd
+      Bone animation files: 
+        horse_idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\snakegibs.mdl" finished.
+
+  Decompiling ".\snaket.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\snaket.mdl" stopped due to error.
+
+  Decompiling ".\steerribs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        steerribs.qc
+      Reference mesh files: 
+        steer_ribs.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\steerribs.mdl" finished.
+
+  Decompiling ".\steerskull.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        steerskull.qc
+      Reference mesh files: 
+        steerskull.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\steerskull.mdl" finished.
+
+  Decompiling ".\storegibs.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        storegibs.qc
+      Reference mesh files: 
+        wood3.smd
+        wood4.smd
+        wood1.smd
+        wood2.smd
+        wood3_2.smd
+        boot2.smd
+        mre1.smd
+        pouch1.smd
+        helmet2.smd
+        spade.smd
+        wood1_2.smd
+        boot1.smd
+        helmet1.smd
+        canteen.smd
+        wood2_2.smd
+        mre2.smd
+        bedroll.smd
+        pouch2.smd
+      Bone animation files: 
+        idle2.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\storegibs.mdl" finished.
+
+  Decompiling ".\telegram.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        telegram.qc
+      Reference mesh files: 
+        envelope1.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\telegram.mdl" finished.
+
+  Decompiling ".\telegraph_key.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        telegraph_key.qc
+      Reference mesh files: 
+        telegraph_key_ref.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\telegraph_key.mdl" finished.
+
+  Decompiling ".\telegraph_keyT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\telegraph_keyT.mdl" stopped due to error.
+
+  Decompiling ".\tombstone.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        tombstone.qc
+      Reference mesh files: 
+        tombstone.smd
+      Bone animation files: 
+        rise.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\tombstone.mdl" finished.
+
+  Decompiling ".\townmex.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        townmex.qc
+      Reference mesh files: 
+        SCI3_Template_Biped1(Headless_Body).smd
+        SCI3_Template_Biped1(NerdHead).smd
+        SCI2_Template_Biped1(EinstienHead).smd
+        SCI3_Template_Biped1(LutherHead).smd
+        SCI3_Template_Biped1(SlickHead).smd
+        SCI2_Template_Biped(Needle_Hand)1.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\townmex.mdl" finished.
+
+  Decompiling ".\townmex01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex01.mdl" FAILED.
+
+  Decompiling ".\townmex02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex02.mdl" FAILED.
+
+  Decompiling ".\townmex03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex03.mdl" FAILED.
+
+  Decompiling ".\townmex04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex04.mdl" FAILED.
+
+  Decompiling ".\townmex05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex05.mdl" FAILED.
+
+  Decompiling ".\townmex06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex06.mdl" FAILED.
+
+  Decompiling ".\townmex07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\townmex07.mdl" FAILED.
+
+  Decompiling ".\townmext.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\townmext.mdl" stopped due to error.
+
+  Decompiling ".\twn2west.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        twn2west.qc
+      Reference mesh files: 
+        SCI3_Template_Biped1(Headless_Body).smd
+        SCI3_Template_Biped1(NerdHead).smd
+        SCI2_Template_Biped1(EinstienHead).smd
+        SCI3_Template_Biped1(LutherHead).smd
+        SCI3_Template_Biped1(SlickHead).smd
+        SCI2_Template_Biped(Needle_Hand)1.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\twn2west.mdl" finished.
+
+  Decompiling ".\twn2west01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west01.mdl" FAILED.
+
+  Decompiling ".\twn2west02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west02.mdl" FAILED.
+
+  Decompiling ".\twn2west03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west03.mdl" FAILED.
+
+  Decompiling ".\twn2west04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west04.mdl" FAILED.
+
+  Decompiling ".\twn2west05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west05.mdl" FAILED.
+
+  Decompiling ".\twn2west06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west06.mdl" FAILED.
+
+  Decompiling ".\twn2west07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twn2west07.mdl" FAILED.
+
+  Decompiling ".\twn2westt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\twn2westt.mdl" stopped due to error.
+
+  Decompiling ".\twnwesta.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading sequence group MDL files ...
+      ... Reading sequence group MDL files finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        twnwesta.qc
+      Reference mesh files: 
+        SCI3_Template_Biped1(Headless_Body).smd
+        SCI3_Template_Biped1(NerdHead).smd
+        SCI2_Template_Biped1(EinstienHead).smd
+        SCI3_Template_Biped1(LutherHead).smd
+        SCI3_Template_Biped1(SlickHead).smd
+        SCI2_Template_Biped(Needle_Hand)1.smd
+      Bone animation files: 
+        walk.smd
+        walk_scared.smd
+        run.smd
+        run1.smd
+        run2.smd
+        180_Left.smd
+        180_Right.smd
+        flinch.smd
+        flinch1.smd
+        laflinch.smd
+        raflinch.smd
+        llflinch.smd
+        rlflinch.smd
+        idle1.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        idle7.smd
+        crouchstand.smd
+        crouch_idle.smd
+        crouch_idle2.smd
+        crouch_idle3.smd
+        crouch_idle3_2.smd
+        panic.smd
+        fear1.smd
+        fear2.smd
+        eye_wipe.smd
+        pull_needle.smd
+        return_needle.smd
+        give_shot.smd
+        diesimple.smd
+        dieforward.smd
+        dieforward1.smd
+        diebackward.smd
+        headshot.smd
+        gutshot.smd
+        barnacled1.smd
+        barnacled2.smd
+        barnacled3.smd
+        barnacled4.smd
+        lying_on_back.smd
+        lying_on_stomach.smd
+        dead_sitting.smd
+        dead_table1.smd
+        dead_table2.smd
+        dead_table3.smd
+        console.smd
+        checktie.smd
+        dryhands.smd
+        tieshoe.smd
+        writeboard.smd
+        studycart.smd
+        lean.smd
+        pondering.smd
+        pondering2.smd
+        pondering3.smd
+        buysoda.smd
+        pause.smd
+        yes.smd
+        no.smd
+        push_button.smd
+        converse1.smd
+        converse2.smd
+        retina.smd
+        talkleft.smd
+        talkright.smd
+        deskidle.smd
+        coffee.smd
+        franticbutton.smd
+        startle.smd
+        sitlookleft.smd
+        sitlookright.smd
+        sitscared.smd
+        sitting2.smd
+        sitting3.smd
+        cprscientist.smd
+        cprscientistrevive.smd
+        cowering_in_corner.smd
+        sstruggleidle.smd
+        sstruggle.smd
+        headcrabbed.smd
+        c1a0_catwalkidle.smd
+        c1a0_catwalk.smd
+        ceiling_dangle.smd
+        ventpull1.smd
+        ventpull2.smd
+        ventpullidle1.smd
+        ventpullidle2.smd
+        sitidle.smd
+        sitstand.smd
+        keypad.smd
+        panic1.smd
+        lookwindow.smd
+        wave.smd
+        pulldoor.smd
+        beatdoor.smd
+        fallingloop.smd
+        crawlwindow.smd
+        divewindow.smd
+        locked_door.smd
+        push_button2.smd
+        unlock_door.smd
+        quicklook.smd
+        handrailidle.smd
+        handrail.smd
+        hanging_idle.smd
+        fall.smd
+        scientist_get_pulled.smd
+        hanging_idle2.smd
+        fall_elevator.smd
+        scientist_idlewall.smd
+        ickyjump_sci.smd
+        haulscientist.smd
+        c1a4_wounded_idle.smd
+        c1a4_dying_speech.smd
+        tentacle_grab.smd
+        helicack.smd
+        windive.smd
+        scicrashidle.smd
+        scicrash.smd
+        onguard.smd
+        seeya.smd
+        rocketcrawl.smd
+        portal.smd
+        gluonshow.smd
+        crouch.smd
+        kneel.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\twnwesta.mdl" finished.
+
+  Decompiling ".\twnwesta01.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta01.mdl" FAILED.
+
+  Decompiling ".\twnwesta02.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta02.mdl" FAILED.
+
+  Decompiling ".\twnwesta03.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta03.mdl" FAILED.
+
+  Decompiling ".\twnwesta04.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta04.mdl" FAILED.
+
+  Decompiling ".\twnwesta05.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta05.mdl" FAILED.
+
+  Decompiling ".\twnwesta06.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta06.mdl" FAILED.
+
+  Decompiling ".\twnwesta07.mdl" ...
+    File does not have expected MDL header ID (first 4 bytes of file) of 'IDST' or 'MDLZ' (without quotes). MDL file is not a GoldSource- or Source-engine MDL file.
+  ... Decompiling ".\twnwesta07.mdl" FAILED.
+
+  Decompiling ".\twnwestat.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\twnwestat.mdl" stopped due to error.
+
+  Decompiling ".\v_beartrap.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_beartrap.qc
+      Reference mesh files: 
+        trap_ref.smd
+      Bone animation files: 
+        draw.smd
+        holster.smd
+        idle.smd
+        fidget.smd
+        throw.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_beartrap.mdl" finished.
+
+  Decompiling ".\v_bow.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_bow.qc
+      Reference mesh files: 
+        bow_reference.smd
+      Bone animation files: 
+        idle1.smd
+        idle2.smd
+        idle3.smd
+        idle4.smd
+        idle5.smd
+        idle6.smd
+        draw.smd
+        holster.smd
+        reload.smd
+        pullback.smd
+        pullback_idle.smd
+        fire.smd
+        dryfire.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_bow.mdl" finished.
+
+  Decompiling ".\v_buffalogun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_buffalogun.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        draw.smd
+        holster.smd
+        idle1.smd
+        idle2.smd
+        fidget.smd
+        fire.smd
+        dryfire.smd
+        reload.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_buffalogun.mdl" finished.
+
+  Decompiling ".\v_cannon.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_cannon.qc
+      Reference mesh files: 
+        cannon_ref.smd
+      Bone animation files: 
+        draw.smd
+        holster.smd
+        idle1.smd
+        idle2.smd
+        fire.smd
+        dryfire.smd
+        reload.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_cannon.mdl" finished.
+
+  Decompiling ".\v_chicken.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_chicken.qc
+      Reference mesh files: 
+        chook_ref.smd
+      Bone animation files: 
+        idle.smd
+        long_idle.smd
+        shoot1.smd
+        drop.smd
+        deploy.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_chicken.mdl" finished.
+
+  Decompiling ".\v_chickent.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_chickent.qc
+      Reference mesh files: 
+        chook_ref.smd
+      Bone animation files: 
+        idle1.smd
+        long_idle.smd
+        reload.smd
+        shoot1.smd
+        shoot2.smd
+        shoot3.smd
+        grenadeshoot.smd
+        deploy.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_chickent.mdl" finished.
+
+  Decompiling ".\v_colts.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_colts.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        idle1.smd
+        idle2.smd
+        fidget.smd
+        draw.smd
+        left_fire.smd
+        right_fire.smd
+        dual_fire.smd
+        reload.smd
+        holster.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_colts.mdl" finished.
+
+  Decompiling ".\v_dynamite.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_dynamite.qc
+      Reference mesh files: 
+        dynamite.smd
+      Bone animation files: 
+        idle.smd
+        fidget.smd
+        pinpull.smd
+        throw1.smd
+        throw2.smd
+        throw3.smd
+        holster.smd
+        draw.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_dynamite.mdl" finished.
+
+  Decompiling ".\v_gattlinggun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_gattlinggun.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        idle.smd
+        idle2.smd
+        idle3.smd
+        spinup.smd
+        fire.smd
+        spindown.smd
+        draw.smd
+        holster.smd
+        jamb.smd
+        unjamb.smd
+        reload.smd
+        dry_fire.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_gattlinggun.mdl" finished.
+
+  Decompiling ".\v_knife.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_knife.qc
+      Reference mesh files: 
+        crowbar_reference.smd
+      Bone animation files: 
+        idle1.smd
+        draw.smd
+        holster.smd
+        attack1.smd
+        attack1miss.smd
+        attack2.smd
+        attack2hit.smd
+        attack3.smd
+        attack3hit.smd
+        idle2.smd
+        idle3.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_knife.mdl" finished.
+
+  Decompiling ".\v_pick.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_pick.qc
+      Reference mesh files: 
+        v_pick.smd
+      Bone animation files: 
+        idle1.smd
+        draw.smd
+        holster.smd
+        attack1.smd
+        attack1miss.smd
+        attack2.smd
+        attack2hit.smd
+        attack3.smd
+        attack3hit.smd
+        idle2.smd
+        idle3.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_pick.mdl" finished.
+
+  Decompiling ".\v_pistol.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_pistol.qc
+      Reference mesh files: 
+        colt_navy.smd
+      Bone animation files: 
+        idle1.smd
+        fidget1.smd
+        fire1.smd
+        reload.smd
+        holster.smd
+        draw.smd
+        idle2.smd
+        idle3.smd
+        quickfire_ready.smd
+        quickfire_shoot.smd
+        quickfire_relax.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_pistol.mdl" finished.
+
+  Decompiling ".\v_scorpion.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_scorpion.qc
+      Reference mesh files: 
+        v_scorpion_reference.smd
+      Bone animation files: 
+        idle.smd
+        fidget.smd
+        idle1.smd
+        holster.smd
+        draw.smd
+        throw.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_scorpion.mdl" finished.
+
+  Decompiling ".\v_shotgun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_shotgun.qc
+      Reference mesh files: 
+        sgun_reference.smd
+      Bone animation files: 
+        idle1.smd
+        idle2.smd
+        idle3.smd
+        holster.smd
+        draw.smd
+        shoot.smd
+        shoot2.smd
+        reload.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_shotgun.mdl" finished.
+
+  Decompiling ".\v_winchester.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        v_winchester.qc
+      Reference mesh files: 
+        v_shotgun_reference.smd
+      Bone animation files: 
+        idle.smd
+        fire.smd
+        reload.smd
+        close_break.smd
+        break.smd
+        draw.smd
+        reholster.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\v_winchester.mdl" finished.
+
+  Decompiling ".\wagonwheel.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        wagonwheel.qc
+      Reference mesh files: 
+        wheel.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\wagonwheel.mdl" finished.
+
+  Decompiling ".\wagonwheelT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\wagonwheelT.mdl" stopped due to error.
+
+  Decompiling ".\wheelside.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        wheelside.qc
+      Reference mesh files: 
+        wheel.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\wheelside.mdl" finished.
+
+  Decompiling ".\wheelsideT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\wheelsideT.mdl" stopped due to error.
+
+  Decompiling ".\winchestershell.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        winchestershell.qc
+      Reference mesh files: 
+        shellcase.smd
+      Bone animation files: 
+        shell.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\winchestershell.mdl" finished.
+
+  Decompiling ".\w_bag1.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_bag1.qc
+      Reference mesh files: 
+        bag1.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_bag1.mdl" finished.
+
+  Decompiling ".\w_bag1T.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_bag1T.mdl" stopped due to error.
+
+  Decompiling ".\w_bag2.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_bag2.qc
+      Reference mesh files: 
+        bag2.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_bag2.mdl" finished.
+
+  Decompiling ".\w_bag2T.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_bag2T.mdl" stopped due to error.
+
+  Decompiling ".\w_battery.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_battery.qc
+      Reference mesh files: 
+        wcoat.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_battery.mdl" finished.
+
+  Decompiling ".\w_batteryT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_batteryT.mdl" stopped due to error.
+
+  Decompiling ".\w_beartrap.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_beartrap.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        idle.smd
+        fire.smd
+        closed.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_beartrap.mdl" finished.
+
+  Decompiling ".\w_beartrapammo.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_beartrapammo.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_beartrapammo.mdl" finished.
+
+  Decompiling ".\w_beartrapammoT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_beartrapammoT.mdl" stopped due to error.
+
+  Decompiling ".\w_beartrapT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_beartrapT.mdl" stopped due to error.
+
+  Decompiling ".\w_bow.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_bow.qc
+      Reference mesh files: 
+        crowbar.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_bow.mdl" finished.
+
+  Decompiling ".\w_bowammo.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_bowammo.qc
+      Reference mesh files: 
+        clip.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_bowammo.mdl" finished.
+
+  Decompiling ".\w_bowammoT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_bowammoT.mdl" stopped due to error.
+
+  Decompiling ".\w_bowT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_bowT.mdl" stopped due to error.
+
+  Decompiling ".\w_buffalobox.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_buffalobox.qc
+      Reference mesh files: 
+        buff_ammo.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_buffalobox.mdl" finished.
+
+  Decompiling ".\w_buffalogun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_buffalogun.qc
+      Reference mesh files: 
+        wrld_shotgun.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_buffalogun.mdl" finished.
+
+  Decompiling ".\w_buffalogunt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_buffalogunt.mdl" stopped due to error.
+
+  Decompiling ".\w_cannon.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_cannon.qc
+      Reference mesh files: 
+        newrpg_worldmodel.smd
+      Bone animation files: 
+        stayput.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_cannon.mdl" finished.
+
+  Decompiling ".\w_cannonball.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_cannonball.qc
+      Reference mesh files: 
+        cannon_ammo.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_cannonball.mdl" finished.
+
+  Decompiling ".\w_cannonT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_cannonT.mdl" stopped due to error.
+
+  Decompiling ".\w_colts.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_colts.qc
+      Reference mesh files: 
+        w_colts_ref.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_colts.mdl" finished.
+
+  Decompiling ".\w_coltsbox.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_coltsbox.qc
+      Reference mesh files: 
+        colts_ammo.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_coltsbox.mdl" finished.
+
+  Decompiling ".\w_coltsboxt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_coltsboxt.mdl" stopped due to error.
+
+  Decompiling ".\w_coltsT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_coltsT.mdl" stopped due to error.
+
+  Decompiling ".\w_dynamite.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_dynamite.qc
+      Reference mesh files: 
+        grenade.smd
+      Bone animation files: 
+        idle.smd
+        roll1.smd
+        roll2.smd
+        toss.smd
+        toss2.smd
+        toss_2.smd
+        toss_3.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_dynamite.mdl" finished.
+
+  Decompiling ".\w_dynamitet.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_dynamitet.mdl" stopped due to error.
+
+  Decompiling ".\w_gattlinggun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_gattlinggun.qc
+      Reference mesh files: 
+        gatling.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_gattlinggun.mdl" finished.
+
+  Decompiling ".\w_gattlinggunT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_gattlinggunT.mdl" stopped due to error.
+
+  Decompiling ".\w_gattlinggun_belt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_gattlinggun_belt.qc
+      Reference mesh files: 
+        gatammo.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_gattlinggun_belt.mdl" finished.
+
+  Decompiling ".\w_gattlinggun_beltT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_gattlinggun_beltT.mdl" stopped due to error.
+
+  Decompiling ".\w_knife.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_knife.qc
+      Reference mesh files: 
+        crowbar.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_knife.mdl" finished.
+
+  Decompiling ".\w_knifeT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_knifeT.mdl" stopped due to error.
+
+  Decompiling ".\w_medkit.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_medkit.qc
+      Reference mesh files: 
+        w_medkit.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_medkit.mdl" finished.
+
+  Decompiling ".\w_medkitt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_medkitt.mdl" stopped due to error.
+
+  Decompiling ".\w_pick.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_pick.qc
+      Reference mesh files: 
+        w_pick.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_pick.mdl" finished.
+
+  Decompiling ".\w_pistol.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_pistol.qc
+      Reference mesh files: 
+        w_colt.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_pistol.mdl" finished.
+
+  Decompiling ".\w_pistolammobox.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_pistolammobox.qc
+      Reference mesh files: 
+        w_pythonammobox.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_pistolammobox.mdl" finished.
+
+  Decompiling ".\w_pistolammoboxt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_pistolammoboxt.mdl" stopped due to error.
+
+  Decompiling ".\w_scorpion.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_scorpion.qc
+      Reference mesh files: 
+        WORLDSQUEAK_Template_Biped2.smd
+      Bone animation files: 
+        idle.smd
+        fidget.smd
+        jump.smd
+        run.smd
+        die.smd
+        dead.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_scorpion.mdl" finished.
+
+  Decompiling ".\w_scorpiont.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_scorpiont.mdl" stopped due to error.
+
+  Decompiling ".\w_scorpnest.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_scorpnest.qc
+      Reference mesh files: 
+        ref.smd
+      Bone animation files: 
+        Walk.smd
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_scorpnest.mdl" finished.
+
+  Decompiling ".\w_scorpnestt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_scorpnestt.mdl" stopped due to error.
+
+  Decompiling ".\w_shotbox.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_shotbox.qc
+      Reference mesh files: 
+        box.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_shotbox.mdl" finished.
+
+  Decompiling ".\w_shotboxt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_shotboxt.mdl" stopped due to error.
+
+  Decompiling ".\w_shotgun.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_shotgun.qc
+      Reference mesh files: 
+        w_shotgun_ref.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_shotgun.mdl" finished.
+
+  Decompiling ".\w_shotgunt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_shotgunt.mdl" stopped due to error.
+
+  Decompiling ".\w_shotshell.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_shotshell.qc
+      Reference mesh files: 
+        shell.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_shotshell.mdl" finished.
+
+  Decompiling ".\w_shotshellt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_shotshellt.mdl" stopped due to error.
+
+  Decompiling ".\w_suit.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_suit.qc
+      Reference mesh files: 
+        wrld_suit.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_suit.mdl" finished.
+
+  Decompiling ".\w_suitt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_suitt.mdl" stopped due to error.
+
+  Decompiling ".\w_weaponbox.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_weaponbox.qc
+      Reference mesh files: 
+        wrld_itemcontainer.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_weaponbox.mdl" finished.
+
+  Decompiling ".\w_winchester.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+      Reading texture MDL file ...
+      ... Reading texture MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_winchester.qc
+      Reference mesh files: 
+        wrld_shotgun.smd
+      Bone animation files: 
+        idle.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_winchester.mdl" finished.
+
+  Decompiling ".\w_winchesterclip.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file finished.
+    ... Reading data finished.
+    Writing data ...
+      QC file: 
+        w_winchesterclip.qc
+      Reference mesh files: 
+        win_ammo.smd
+      Bone animation files: 
+        idle1.smd
+      DeclareSequence QCI file: 
+    ... Writing data finished.
+  ... Decompiling ".\w_winchesterclip.mdl" finished.
+
+  Decompiling ".\w_winchesterclipt.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_winchesterclipt.mdl" stopped due to error.
+
+  Decompiling ".\w_winchesterT.mdl" ...
+    Model version 10 detected.
+    Reading MDL file header ...
+    ... Reading MDL file header finished.
+    Checking for required files ...
+    ... All required files found.
+    Reading data ...
+      Reading MDL file ...
+      ... Reading MDL file FAILED. (Probably unexpected format.)
+  ... Decompiling ".\w_winchesterT.mdl" stopped due to error.

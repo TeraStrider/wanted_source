@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/rpgrocket/cannonball"
+	"$model" 1
+}

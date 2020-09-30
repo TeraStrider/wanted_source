@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8357"
-	"mapversion" "32"
+	"mapversion" "33"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "0"
-	"mapversion" "32"
+	"mapversion" "33"
 	"classname" "worldspawn"
 	"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
 	"detailmaterial" "detail/detailsprites"

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/bandit_mex/low_res_colt"
+	"$model" 1
+}

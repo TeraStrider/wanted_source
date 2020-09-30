@@ -1,0 +1,14 @@
+Info
+{
+	"NextInternalID" "2"
+}
+Maps
+{
+	VMF
+	{
+		"Name" "unnamed"
+		"File" "fof_wanted_fortdm.vmf"
+		"InternalID" "1"
+		"TopLevel" "1"
+	}
+}

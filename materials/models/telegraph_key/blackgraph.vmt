@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/telegraph_key/blackgraph"
+	"$model" 1
+}

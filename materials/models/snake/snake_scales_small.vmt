@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/snake/snake_scales_small"
+	"$model" 1
+}

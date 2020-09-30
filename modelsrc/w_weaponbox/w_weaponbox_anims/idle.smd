@@ -1,0 +1,8 @@
+version 1
+nodes
+  0 "Backpack1" -1
+end
+skeleton
+  time 0
+    0 -0.155578 0.152297 11.951119 1.570796 0.000000 0.000000
+end

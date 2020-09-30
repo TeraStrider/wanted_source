@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/w_coltsbox/coltboxfrnt"
+	"$model" 1
+}

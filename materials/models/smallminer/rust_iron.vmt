@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/smallminer/rust_iron"
+	"$model" 1
+}

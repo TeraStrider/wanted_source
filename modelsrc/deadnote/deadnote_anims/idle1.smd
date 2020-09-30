@@ -1,0 +1,8 @@
+version 1
+nodes
+  0 "Rectangle01" -1
+end
+skeleton
+  time 0
+    0 -0.107344 0.110177 0.108126 0.000000 0.000000 -2.094129
+end

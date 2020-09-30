@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/w_weaponbox/BPack1"
+	"$model" 1
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/w_cannonball/cannonboxlidinside"
+	"$model" 1
+}

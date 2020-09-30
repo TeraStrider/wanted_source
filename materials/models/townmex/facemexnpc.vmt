@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/townmex/facemexnpc"
+	"$model" 1
+}
