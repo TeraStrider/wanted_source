@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/wall12"
-	"$surfaceprop" "dirt"
+	"$basetexture"	"wanted\wall12"
 }

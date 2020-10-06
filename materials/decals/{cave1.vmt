@@ -1,6 +1,6 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/{cave1"
-	"$translucent" 1
-	"$decal" 1
+	"$basetexture"	"decals\{cave1"
+	"$translucent"		"1"
+	"$decal"		"1"
 }

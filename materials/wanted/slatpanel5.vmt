@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/slatpanel5"
-	"$surfaceprop" "wood"
+	"$basetexture"	"wanted\slatpanel5"
 }

@@ -1,7 +1,6 @@
-"LightmappedGeneric"
+"lightmappedgeneric"
 {
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "decals/{capsn"
-	"$decal" 1
+	"$basetexture"	"decals\{capsn"
+	"$translucent"		"1"
+	"$decal"		"1"
 }

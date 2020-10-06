@@ -1,0 +1,23 @@
+"Ladder.StepLeft"
+{
+	"soundlevel"		"SNDLVL_75dB"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"		"player/pl_ladder2.wav"
+		"wave"		"player/pl_ladder4.wav"
+	}
+}
+
+"Ladder.StepRight"
+{
+	"soundlevel"		"SNDLVL_75dB"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"		"player/pl_ladder1.wav"
+		"wave"		"player/pl_ladder3.wav"
+	}
+}

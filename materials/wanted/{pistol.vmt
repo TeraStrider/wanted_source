@@ -1,6 +1,6 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/{pistol"
-	"$alphatest" 1
-	"$alphatestreference" 0.950000
+	"$basetexture"	"wanted\{pistol"
+	"$alphatest"	"1"
+	"$alphatestreference"	"0.5"
 }

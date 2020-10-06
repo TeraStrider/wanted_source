@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/indian4"
-	"$surfaceprop" "dirt"
+	"$basetexture"	"wanted\indian4"
 }

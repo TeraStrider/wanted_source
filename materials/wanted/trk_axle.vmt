@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/trk_axle"
-	"$surfaceprop" "metal"
+	"$basetexture"	"wanted\trk_axle"
 }

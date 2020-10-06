@@ -1,4 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/out"
+	"$basetexture"	"wanted\out"
 }

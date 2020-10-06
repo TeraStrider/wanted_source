@@ -1,7 +1,7 @@
 ECHO off
 SetLocal EnableDelayedExpansion
-SET oldname=barney
-SET newname=hgrunt
+SET oldname=bear
+SET newname=zombie
 FOR %%i IN (*.*) DO (
 	if "%%~ni" == "%oldname%" (
 		rename "%%i" "%newname%%%~xi"

@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/woo7"
-	"$surfaceprop" "wood"
+	"$basetexture"	"wanted\woo7"
 }

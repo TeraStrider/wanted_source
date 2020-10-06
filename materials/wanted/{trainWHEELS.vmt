@@ -1,7 +1,6 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/{trainWHEELS"
-	"$alphatest" 1
-	"$alphatestreference" 0.950000
-	"$surfaceprop" "metal"
+	"$basetexture"	"wanted\{trainWHEELS"
+	"$alphatest"	"1"
+	"$alphatestreference"	"0.5"
 }

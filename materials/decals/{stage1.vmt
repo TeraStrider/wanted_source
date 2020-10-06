@@ -1,6 +1,6 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/{stage1"
-	"$translucent" 1
-	"$decal" 1
+	"$basetexture"	"decals\{stage1"
+	"$translucent"		"1"
+	"$decal"		"1"
 }

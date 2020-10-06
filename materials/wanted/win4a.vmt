@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/win4a"
-	"$surfaceprop" "glass"
+	"$basetexture"	"wanted\win4a"
 }

@@ -1,5 +1,4 @@
 "lightmappedgeneric"
 {
-	"$basetexture" "wanted/gravel_dark1"
-	"$surfaceprop" "dirt"
+	"$basetexture"	"wanted\gravel_dark1"
 }

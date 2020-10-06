@@ -1,0 +1,440 @@
+
+
+
+materialPath: C:\steam\steamapps\common\Fistful of Frags\fof\materials
+Loading C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.vmf
+material "wood-2ba" not found.
+Material not found!: WOOD-2BA
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "wod5" not found.
+Material not found!: WOD5
+material "wod1" not found.
+Material not found!: WOD1
+material "woodbarn" not found.
+Material not found!: WOODBARN
+material "wod23" not found.
+Material not found!: WOD23
+material "wood2" not found.
+Material not found!: WOOD2
+material "wood-1b" not found.
+Material not found!: WOOD-1B
+material "wood8b" not found.
+Material not found!: WOOD8B
+material "sky" not found.
+Material not found!: SKY
+material "fort" not found.
+Material not found!: FORT
+material "pallist" not found.
+Material not found!: PALLIST
+material "wobrk2" not found.
+Material not found!: WOBRK2
+material "wood3_1" not found.
+Material not found!: WOOD3_1
+material "wizwood1_8" not found.
+Material not found!: WIZWOOD1_8
+material "woo7" not found.
+Material not found!: WOO7
+material "wood6_b" not found.
+Material not found!: WOOD6_B
+material "shakes_b" not found.
+Material not found!: SHAKES_B
+material "wod6" not found.
+Material not found!: WOD6
+material "wood4_4" not found.
+Material not found!: WOOD4_4
+material "wod7" not found.
+Material not found!: WOD7
+material "brd_wd31" not found.
+Material not found!: BRD_WD31
+material "metal18" not found.
+Material not found!: METAL18
+material "wod3a" not found.
+Material not found!: WOD3A
+material "wood_shakes" not found.
+Material not found!: WOOD_SHAKES
+material "streetfloor" not found.
+Material not found!: STREETFLOOR
+material "wood-1" not found.
+Material not found!: WOOD-1
+material "!bluwter" not found.
+Material not found!: !BLUWTER
+material "wobrk1" not found.
+Material not found!: WOBRK1
+material "win1" not found.
+Material not found!: WIN1
+material "wood4_1" not found.
+Material not found!: WOOD4_1
+material "wod23a" not found.
+Material not found!: WOD23A
+material "support1_3" not found.
+Material not found!: SUPPORT1_3
+material "trigger" not found.
+Material not found!: TRIGGER
+material "{kerlamp" not found.
+Material not found!: {KERLAMP
+material "win2a" not found.
+Material not found!: WIN2A
+material "{ladder1" not found.
+Material not found!: {LADDER1
+Could not locate 'GameData' key in c:\steam\steamapps\sourcemods\wantedsource\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236555 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 489 texinfos to 384
+Reduced 36 texdatas to 36 (271 bytes to 271)
+Writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+Wrote ZIP buffer, estimated size 82076, actual size 81862
+9 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 36
+
+
+
+[Reading texlights from 'lights.rad']
+[57 texlights parsed from 'lights.rad']
+
+Loading c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+No vis information, direct lighting only.
+3093 faces
+12 degenerate faces
+105731 square feet [15225281.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  38/1024         1824/49152    ( 3.7%) 
+brushes                575/8192         6900/98304    ( 7.0%) 
+brushsides            4699/65536       37592/524288   ( 7.2%) 
+planes                3494/65536       69880/1310720  ( 5.3%) 
+vertexes              4638/65536       55656/786432   ( 7.1%) 
+nodes                 1987/65536       63584/2097152  ( 3.0%) 
+texinfos               384/12288       27648/884736   ( 3.1%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3093/65536      173208/3670016  ( 4.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2240/65536      125440/3670016  ( 3.4%) 
+leaves                2026/65536       64832/2097152  ( 3.1%) 
+leaffaces             3539/65536        7078/131072   ( 5.4%) 
+leafbrushes            856/65536        1712/131072   ( 1.3%) 
+areas                    1/256             8/2048     ( 0.4%) 
+surfedges            24493/512000      97972/2048000  ( 4.8%) 
+edges                13625/256000      54500/1024000  ( 5.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            178/32768        1780/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3129/65536        6258/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        3527/393216   ( 0.9%) 
+LDR ambient table     2026/65536        8104/262144   ( 3.1%) 
+HDR ambient table     2026/65536        8104/262144   ( 3.1%) 
+LDR leaf ambient      1296/65536       36288/1835008  ( 2.0%) 
+HDR leaf ambient      2026/65536       56728/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       81862/0        ( 0.0%) 
+physics               [variable]      236555/4194304  ( 5.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9092
+Writing c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\Fistful of Frags\fof\materials
+Loading C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.vmf
+Could not locate 'GameData' key in c:\steam\steamapps\sourcemods\wantedsource\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236108 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 546 texinfos to 415
+Reduced 36 texdatas to 36 (532 bytes to 532)
+Writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+Wrote ZIP buffer, estimated size 82076, actual size 81862
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[57 texlights parsed from 'lights.rad']
+
+Loading c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+No vis information, direct lighting only.
+2967 faces
+10 degenerate faces
+58580 square feet [8435628.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/1024         1680/49152    ( 3.4%) 
+brushes                575/8192         6900/98304    ( 7.0%) 
+brushsides            4700/65536       37600/524288   ( 7.2%) 
+planes                3742/65536       74840/1310720  ( 5.7%) 
+vertexes              4473/65536       53676/786432   ( 6.8%) 
+nodes                 1764/65536       56448/2097152  ( 2.7%) 
+texinfos               415/12288       29880/884736   ( 3.4%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2967/65536      166152/3670016  ( 4.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2177/65536      121912/3670016  ( 3.3%) 
+leaves                1800/65536       57600/2097152  ( 2.7%) 
+leaffaces             3368/65536        6736/131072   ( 5.1%) 
+leafbrushes           1006/65536        2012/131072   ( 1.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            23526/512000      94104/2048000  ( 4.6%) 
+edges                13086/256000      52344/1024000  ( 5.1%) 
+LDR worldlights         11/8192          968/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            150/32768        1500/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2607/65536        5214/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      261296/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13615/393216   ( 3.5%) 
+LDR ambient table     1800/65536        7200/262144   ( 2.7%) 
+HDR ambient table     1800/65536        7200/262144   ( 2.7%) 
+LDR leaf ambient      4843/65536      135604/1835008  ( 7.4%) 
+HDR leaf ambient      1800/65536       50400/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       81862/0        ( 0.0%) 
+physics               [variable]      236108/4194304  ( 5.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 8630
+Writing c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\Fistful of Frags\fof\materials
+Loading C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.vmf
+Could not locate 'GameData' key in c:\steam\steamapps\sourcemods\wantedsource\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236108 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 546 texinfos to 415
+Reduced 36 texdatas to 36 (532 bytes to 532)
+Writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+Wrote ZIP buffer, estimated size 82076, actual size 81862
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+reading c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.prt
+ 649 portalclusters
+2530 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1366 visible clusters (0.44%)
+Total clusters visible: 311697
+Average clusters visible: 480
+Building PAS...
+Average clusters audible: 648
+visdatasize:109812  compressed from 114224
+writing c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+10 minutes, 15 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\Fistful of Frags\fof\materials
+Loading C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.vmf
+Could not locate 'GameData' key in c:\steam\steamapps\sourcemods\wantedsource\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/want4*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236108 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 546 texinfos to 415
+Reduced 36 texdatas to 36 (532 bytes to 532)
+Writing C:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+Wrote ZIP buffer, estimated size 82076, actual size 81862
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[57 texlights parsed from 'lights.rad']
+
+Loading c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+No vis information, direct lighting only.
+2967 faces
+10 degenerate faces
+58580 square feet [8435628.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/1024         1680/49152    ( 3.4%) 
+brushes                575/8192         6900/98304    ( 7.0%) 
+brushsides            4700/65536       37600/524288   ( 7.2%) 
+planes                3742/65536       74840/1310720  ( 5.7%) 
+vertexes              4473/65536       53676/786432   ( 6.8%) 
+nodes                 1764/65536       56448/2097152  ( 2.7%) 
+texinfos               415/12288       29880/884736   ( 3.4%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2967/65536      166152/3670016  ( 4.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2177/65536      121912/3670016  ( 3.3%) 
+leaves                1800/65536       57600/2097152  ( 2.7%) 
+leaffaces             3368/65536        6736/131072   ( 5.1%) 
+leafbrushes           1006/65536        2012/131072   ( 1.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            23526/512000      94104/2048000  ( 4.6%) 
+edges                13086/256000      52344/1024000  ( 5.1%) 
+LDR worldlights         11/8192          968/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            150/32768        1500/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2607/65536        5214/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      261296/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13615/393216   ( 3.5%) 
+LDR ambient table     1800/65536        7200/262144   ( 2.7%) 
+HDR ambient table     1800/65536        7200/262144   ( 2.7%) 
+LDR leaf ambient      4831/65536      135268/1835008  ( 7.4%) 
+HDR leaf ambient      1800/65536       50400/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       81862/0        ( 0.0%) 
+physics               [variable]      236108/4194304  ( 5.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 8630
+Writing c:\steam\steamapps\sourcemods\wantedsource\mapsrc\fortdm.bsp
+4 seconds elapsed
